@@ -1,6 +1,13 @@
 {
   "proposed": [],
-  "approved": [],
+  "approved": [
+    {
+      "id": "2115793573589258279",
+      "title": "Allo",
+      "url": "https://x.com/allophonesystem/status/2115793573589258279",
+      "date": "2026-11-01"
+    }
+  ],
   "skipped": [],
   "built": []
 }
